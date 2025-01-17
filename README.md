@@ -46,14 +46,11 @@ Welcome to my GitHub profile! I’m a **Python Developer** with over **8 years o
 - **SendGrid**, **BigQuery**, **GCS Bucket**, **Pub/Sub**, **Cloud Dataflow**
 
 ## 📈 Projects & Contributions
-- Contributed to several open-source projects focused on **cloud automation**, **data engineering**, and **web development**.
-- Designed and implemented **CI/CD pipelines** to ensure efficient and smooth software delivery.
-- Developed several large-scale applications using **Django**, **Flask**, and **Spring Boot** for **Java**.
+-  Developing chatbots leveraging **OpenAI** and **LLM/RAG** technologies.
 
 ## 🌱 Current Interests
 - Actively seeking collaboration opportunities on **open-source data projects**.
 - Exploring innovative solutions in **cloud computing** and **artificial intelligence**.
-- Developing chatbots leveraging **OpenAI** and **LLM/RAG** technologies.
   
 ## 📫 How to reach me:
 - Email: **sivasundharam123@gmail.com**
